@@ -1,4 +1,4 @@
-Scripts and Figures for a Stochastic Hydro-Economic Model of Flood Warnings
+##Scripts and Figures for a Stochastic Hydro-Economic Model of Flood Warnings
 
 This repository contains the data, scripts, and figure-generation material used in the manuscript:
 
